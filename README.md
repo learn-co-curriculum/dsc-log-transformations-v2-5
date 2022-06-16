@@ -722,7 +722,7 @@ The way to interpret this in words would be:
 
 > For each increase of 50% in weight, we see an associated decrease of about 8.3 MPG
 
-Note that this is pretty different from if we had just divided the coefficient (20.5) in half. This interpretation (an increase of a larger percentage) is less popular than increasing by 1% because multiplying a value by something like 0.406 is harder to do mentally than dividing by 100.
+Note that this is pretty different from if we had just divided the coefficient (20.5) in half. This interpretation (an increase of a larger percentage) is less popular than increasing by 1% because multiplying a value by something like 0.405 is harder to do mentally than dividing by 100.
 
 ## Model with a Log Transformed Target
 
