@@ -1,4 +1,4 @@
-## Log Transformations
+# Log Transformations
 
 ## Introduction
 
