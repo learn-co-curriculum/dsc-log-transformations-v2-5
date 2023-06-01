@@ -22,7 +22,7 @@ import pandas as pd
 import seaborn as sns
 import statsmodels.api as sm
 
-plt.style.use('seaborn-talk')
+plt.style.use('seaborn-v0_8-whitegrid')
 %matplotlib inline
 ```
 
